@@ -1,0 +1,10 @@
+server:
+    port: 8888
+datasource:
+    driverName: mysql
+    host: 39.102.58.115
+    port: 3306
+    database: mygin
+    username: root
+    password: 
+    charset: utf8
